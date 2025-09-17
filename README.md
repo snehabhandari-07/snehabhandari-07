@@ -1,14 +1,7 @@
-# 👋 Hi, I’m Sneha
+#  Hi, I’m Sneha Bhandari
 
-🎓 Final-year Computer Engineering Student  
-💻 Passionate about software development, problem-solving, and open-source  
-🚀 Exploring projects in web development, AI, and systems programming  
+🎓 Final-year Computer Engineering Student   
 🌱 Always curious and eager to learn new technologies  
-
----
-
-## 🔥 GitHub Stats
-![Baby's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehabhandari-07&show_icons=true&theme=tokyonight)  
 
 ---
 
