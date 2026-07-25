@@ -1,9 +1,9 @@
-# Hi, I'm Sneha Bhandari 👋
+# Hi, I'm Sneha Bhandari 
 
-🎓 **Computer Engineering Graduate** (2026)
-🏆 **CGPA:** 9.31/10 | **Final Semester (8th Sem) SGPA:** 9.75/10
-💻 Passionate about Java Backend Development and Problem Solving.
-🌱 Currently learning **Hibernate** and expanding my backend development skills.
+  **Computer Engineering Graduate** (2026)
+  **CGPA:** 9.31/10 | **Final Semester (8th Sem) SGPA:** 9.75/10
+  Passionate about Java Backend Development and Problem Solving.
+  Currently learning **Hibernate** and expanding my backend development skills.
 
 ---
 
@@ -16,7 +16,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3\&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=database\&logoColor=white)
 
-### ☕ Java Technologies
+### Java Technologies
 
 ![Core Java](https://img.shields.io/badge/-Core%20Java-007396?logo=java\&logoColor=white)
 ![JDBC](https://img.shields.io/badge/-JDBC-007396?logo=java\&logoColor=white)
@@ -24,11 +24,11 @@
 ![JSP](https://img.shields.io/badge/-JSP-FF6F00?logo=java\&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate\&logoColor=white)
 
-### 🗄️ Database
+### Database
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql\&logoColor=white)
 
-### 🛠️ Tools
+### Tools
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github\&logoColor=white)
@@ -37,7 +37,7 @@
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 * Hibernate
 * Advanced Java
@@ -46,7 +46,7 @@
 
 ---
 
-## 📈 Academic Highlights
+## Academic Highlights
 
 * Bachelor of Engineering in Computer Engineering (2026)
 * Overall **CGPA: 9.31/10**
