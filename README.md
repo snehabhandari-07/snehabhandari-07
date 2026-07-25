@@ -1,9 +1,8 @@
 # Hi, I'm Sneha Bhandari 
 
--**Computer Engineering Graduate** (2026)
--**CGPA:** 9.31/10 | **Final Semester (8th Sem) SGPA:** 9.75/10
--Passionate about Java Backend Development and Problem Solving.
--Currently learning **Hibernate** and expanding my backend development skills.
+Computer Engineering Graduate (2026) with a 9.31 CGPA and 9.75 SGPA in the final semester. I enjoy building backend applications using Java and continuously improving my understanding of object-oriented programming and database technologies.
+
+I am currently learning Hibernate and working toward becoming a Java Backend Developer.
 
 ---
 
